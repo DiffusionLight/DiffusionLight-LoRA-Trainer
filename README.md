@@ -17,7 +17,7 @@ We provide a code and training set for training LoRA using in DiffusionLight.
 bash final_train_cont_largeT@900.sh
 ```
 
-And wait over a night on Single RTX 3090 until it create folder `ThisIsTheFinal-lora-hdr-continuous-largeT@900/0_-5/checkpoint-2500` which we provide in main repository
+wait over a night on Single RTX 3090 until it create folder `ThisIsTheFinal-lora-hdr-continuous-largeT@900/0_-5/checkpoint-2500` which we provide in main repository
 
 
 ### Dataset 
