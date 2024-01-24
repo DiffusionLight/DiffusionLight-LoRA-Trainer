@@ -11,7 +11,7 @@ We provide a code and training set for training LoRA using in DiffusionLight.
   * [Citation](#Citation)
 ------
 
-### Poly Haven and Laval indoor
+### Getting started
 
 ```shell
 bash final_train_cont_largeT@900.sh
